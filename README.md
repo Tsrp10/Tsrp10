@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Trisha Raju Poreddiwar
+# 👋 Hi, I'm Trisha Poreddiwar
 
 Welcome to my GitHub profile! I'm a passionate developer with expertise in multiple programming languages and a strong foundation in software development. I love building projects and contributing to open-source communities.
 
