@@ -1,58 +1,31 @@
-# 👋 Hi, I'm Trisha Poreddiwar
-
-Welcome to my GitHub profile! I'm a passionate developer with expertise in multiple programming languages and a strong foundation in software development. I love building projects and contributing to open-source communities.
+# 👋 Hi there, I'm Trisha
 
 ---
-
-## 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
----
-
-## 📂 Projects:
-
-### 🚀 Project 1: [Project Name]
-**Description:** Brief description of what this project does
-- **Technologies:** C, Python, JavaScript
-- **GitHub:** [View Repository](https://github.com/Tsrp10/project-name)
-
-### 🎯 Project 2: [Project Name]
-**Description:** Brief description of this project
-- **Technologies:** Java, HTML, CSS
-- **GitHub:** [View Repository](https://github.com/Tsrp10/project-name)
-
-### 💡 Project 3: [Project Name]
-**Description:** Brief description of this project
-- **Technologies:** Python, JavaScript
-- **GitHub:** [View Repository](https://github.com/Tsrp10/project-name)
-
----
-
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Tsrp10&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Tsrp10&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tsrp10&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-
-## 📞 Contact & Connect:
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn:** [linkedin.com/in/trisha-raju](https://linkedin.com/in/your-linkedin-profile)
-- **GitHub:** [@Tsrp10](https://github.com/Tsrp10)
-- **Portfolio:** [your-portfolio.com](https://your-portfolio.com)
-
----
-
 ## 🌟 About Me:
-I'm passionate about solving real-world problems through code. I enjoy learning new technologies and collaborating with developers worldwide. Feel free to explore my repositories and don't hesitate to reach out for collaboration!
+I'm passionate about building practical projects with Python and exploring AI, Machine Learning, and Data Analytics. I enjoy learning new technologies.
+ 
+---
+## 💻 Tech Stack:
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Power%20BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS%20Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
+## 📊 GitHub Stats:
 
-[![](https://visitcount.itsvg.in/api?id=Tsrp10&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://github-readme-stats.vercel.app/api?username=tsrp10&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![](https://nirzak-streak-stats.vercel.app/?user=tsrp10&theme=github_dark&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tsrp10&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
