@@ -1,11 +1,13 @@
-<h1 align="center">Hi 👋 I'm Trisha</h1>
-
-<h3 align="center">
-Computer Science Engineering (Cyber Security) Student
-</h3>
+<h1 align="center">
+  Hi, I'm Trisha Poreddiwar 👋
+</h1>
 
 <p align="center">
- 📊 Data Analytics Enthusiast 🤖 AI Learner
+  Computer Science Engineering (Cyber Security) Student
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=1200&color=8B5CF6&center=true&vCenter=true&width=700&lines=Data+Analytics+Enthusiast;AI+Learner" />
 </p>
 
 ## ⚡ Tech Stack
@@ -13,6 +15,9 @@ Computer Science Engineering (Cyber Security) Student
 ### 👨‍💻 Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### 📝 Query Language
+
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 📚 Libraries
@@ -46,9 +51,8 @@ Computer Science Engineering (Cyber Security) Student
   <img src="https://streak-stats.demolab.com?user=tsrp10&theme=github-dark&hide_border=true" />
 </p>
 
-
 ## 🌐 Connect with Me
 
 🔗 **GitHub:** [Tsrp10](https://github.com/Tsrp10)
 
-🔗 **LinkedIn:** [Trisha Poreddiwar](www.linkedin.com/in/trisha-poreddiwar-49199a289)
+🔗 **LinkedIn:** [Trisha Poreddiwar](https://www.linkedin.com/in/trisha-poreddiwar-49199a289)
